@@ -1,6 +1,6 @@
 import requests
-number_len = 7
-num_guesses = 7
+number_len = 6
+num_guesses = 6
 import random
 word_site = "http://www.mieliestronk.com/corncob_lowercase.txt"
 
